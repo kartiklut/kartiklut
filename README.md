@@ -1,9 +1,9 @@
 ### Hi there 👋I'm [Kartik!](https://www.kartik.engineer/)
 ## 📬 Get in touch
 
-- Web: https://www.kartik.engineer/][1]
-- LinkedIn: [https://www.linkedin.com/in/kartik-luthra-90b7a2177/][2]
-- Twitter: [https://twitter.com/kartikluthra1][3]
+- Web: https://www.kartik.engineer/]
+- LinkedIn: [https://www.linkedin.com/in/kartik-luthra-90b7a2177/]
+- Twitter: [https://twitter.com/kartikluthra1]
 <!--
 **kartiklut/kartiklut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
