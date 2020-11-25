@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kartiklut&show_icons=true&theme=radical&hide=contribs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiklut&layout=compact)](https://github.com/kartiklut)
 
-#Visitor Count ![Visitor Count](https://profile-counter.glitch.me/kartiklut/count.svg)
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/kartiklut/count.svg)
