@@ -1,5 +1,5 @@
 ### Hi there 👋I'm [Kartik!](https://www.kartik.engineer/)
-  I write Code which add value to your life.
+  I Code to add value in your life.
 ## 📬 Get in touch
 
 - Web: https://www.kartik.engineer/
