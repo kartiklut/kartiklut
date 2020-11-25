@@ -1,9 +1,10 @@
 ### Hi there 👋I'm [Kartik!](https://www.kartik.engineer/)
+  I write Code which add value to your life.
 ## 📬 Get in touch
 
-- Web: https://www.kartik.engineer/]
-- LinkedIn: [https://www.linkedin.com/in/kartik-luthra-90b7a2177/]
-- Twitter: [https://twitter.com/kartikluthra1]
+- Web: https://www.kartik.engineer/
+- LinkedIn: https://www.linkedin.com/in/kartik-luthra-90b7a2177/
+- Twitter: https://twitter.com/kartikluthra1
 <!--
 **kartiklut/kartiklut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
