@@ -2,7 +2,6 @@
   I Code to add value in your life.
 ## 📬 Get in touch
 
-- Web: https://portfolio-kartik.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/kartik-luthra-90b7a2177/
 - Twitter: https://twitter.com/kartikluthra1
 <!--
