@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 -->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=kartiklut&show_icons=true&theme=radical&hide=contribs)](https://github.com/kartiklut) -->
 [![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kartiklut&layout=compact&theme=radical)](https://github.com/kartiklut)
-
-### Visitor Count
-[![Visitor Count](https://profile-counter.glitch.me/kartiklut/count.svg)](https://github.com/kartiklut)
